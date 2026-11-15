@@ -39,7 +39,7 @@ Sistema end-to-end de Ciencia de Datos desarrollado sobre el dataset público de
 
 1. Clona el repositorio e instala las dependencias:
    ```bash
-   git clone [https://github.com/tu-usuario/retail-demand-forecasting-inventory-intelligence.git](https://github.com/tu-usuario/retail-demand-forecasting-inventory-intelligence.git)
+   git clone [https://github.com/IamGian18/retail-demand-forecasting-inventory-intelligence.git](https://github.com/IamGian18/retail-demand-forecasting-inventory-intelligence.git)
    cd retail-demand-forecasting-inventory-intelligence
    pip install -r requirements.txt
    ```
