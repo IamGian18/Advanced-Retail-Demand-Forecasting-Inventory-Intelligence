@@ -1,0 +1,13 @@
+polars
+pandas
+numpy
+scipy
+statsmodels
+statsforecast
+scikit-learn
+lightgbm
+xgboost
+optuna
+shap
+plotly
+matplotlib
