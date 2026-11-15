@@ -22,7 +22,7 @@ Sistema end-to-end de Ciencia de Datos desarrollado sobre el dataset público de
 * **Incertidumbre Cuantílica:** Cobertura real del **78.60%** dentro del intervalo `[P10 – P90]` (alineada al objetivo nominal del 80%).
 * **Principales Impulsores (SHAP):** Inercia móvil de 7 días (`roll_mean_7`), rezagos semanales (`lag_7`, `lag_1`), actividad promocional (`onpromotion`) y estacionalidad de calendario.
 
-![SHAP Explainability](images/shap_explainability.png)
+![SHAP Explainability](shap_explainability.png)
 
 ### Impacto Financiero Simulado (Horizonte 15 Días)
 
@@ -43,4 +43,4 @@ Sistema end-to-end de Ciencia de Datos desarrollado sobre el dataset público de
    cd retail-demand-forecasting-inventory-intelligence
    pip install -r requirements.txt
    ```
-2. Descarga `store-sales-time-series-forecasting.zip` desde Kaggle y ejecuta el notebook `notebooks/01_demand_forecasting_inventory_pipeline.ipynb` en Google Colab o entorno local.
+2. Descarga `store-sales-time-series-forecasting.zip` desde Kaggle y ejecuta el notebook `01_demand_forecasting_inventory_pipeline.ipynb` en Google Colab o entorno local.
